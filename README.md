@@ -1,3 +1,4 @@
+<img width="706" height="287" alt="kubernetes project" src="https://github.com/user-attachments/assets/fc83319b-4c11-4cd9-8fa9-fa1d79d6e6ed" />
 \# Kubernetes Minikube Project
 
 
